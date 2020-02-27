@@ -11,3 +11,10 @@ By [Miguel Grinberg](https://blog.miguelgrinberg.com/author/Miguel%20Grinberg)
 - .flaskenv Environment variables for flask command
 
 ## Chapter 2: Templates
+- What are templates?
+- Folder app/templates
+- Jinja2 engine in flask
+- Conditional Statements
+- For Loop
+- Base templates
+
