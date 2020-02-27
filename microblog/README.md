@@ -4,6 +4,8 @@ By [Miguel Grinberg](https://blog.miguelgrinberg.com/author/Miguel%20Grinberg)
 
 [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
+There are 23 chapters.
+
 ## Chapter 1: Hello, World
 - Install Python 3.x
 - Install Flask
@@ -18,3 +20,5 @@ By [Miguel Grinberg](https://blog.miguelgrinberg.com/author/Miguel%20Grinberg)
 - For Loop
 - Base templates
 
+## Chapter 3: Web Forms
+- 
