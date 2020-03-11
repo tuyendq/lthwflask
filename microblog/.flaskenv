@@ -1,1 +1,2 @@
 FLASK_APP=microblog.py
+SECRET_KEY=El0L6qc6zdYWMM8TrgOIGhv76aKbp0FQ
