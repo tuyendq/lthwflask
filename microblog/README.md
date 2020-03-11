@@ -21,4 +21,9 @@ There are 23 chapters.
 - Base templates
 
 ## Chapter 3: Web Forms
-- 
+- Introduction to Flask-WTH
+```
+(venv) $ pip install flask-wth
+```
+- Configuration
+- User Login Form
